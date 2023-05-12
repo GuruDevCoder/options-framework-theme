@@ -1,0 +1,13 @@
+/*
+Theme Name: Options Framework Theme
+Theme URI: http://wptheming.com
+Description: An example/test theme with a complete theme options panel.
+Author: Devin Price
+Author URI: http://wptheming.com
+Version: 0.8
+Template: twentyeleven
+*/
+
+@import url('../twentyeleven/style.css');
+
+#branding hgroup, #searchform, #branding img, #access {display:none;}
